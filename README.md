@@ -1,7 +1,7 @@
 # Insta-Recon V1.0
 
 This is a simple python OSINT Tool for Instagram.  
-It can be used to get the data of public accounts as well as Private accounts like their Username, User-id, Full-Name, Followers and Following count, Profile-pic-HD etc. that can be used to recon the user on Instagram.
+It can be used to get the data of public accounts as well as Private accounts like their Username, User-id, Full-Name, Followers and Following count, Profile-pic-HD messages etc. that can be used to recon the user on Instagram.
 
 Also save the report to a folder with a text file and profile photo
 
@@ -22,7 +22,7 @@ cd Insta-Recon
 python3 insta-recon.py
 ```
 
-## [Termux] :
+## [shakkeelahammedkk]
 
 ```
 apt-get update -y && apt-get upgrade -y
